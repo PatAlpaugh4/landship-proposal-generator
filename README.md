@@ -1,7 +1,13 @@
 # landship-proposal-generator
 
-The free **Proposal Generator** — Landship.ca's top-of-funnel lead magnet. A prospect enters a few
-details about a job and gets a polished, ready-to-send proposal in seconds, powered by Claude.
+> **Strategy role (2026-05-29): DEMOTED to a Tier-2/4 upsell tool — not the lead magnet.**
+> Under the funnel-first strategy, the lead magnet is the **inbound funnel / voice qualifier**
+> ("you experienced it"), not this. Keep this around as an internal proposal writer and a possible
+> client-facing upsell (document/quote generation), but don't feature it as top-of-funnel. See the
+> vault `08-Reference/Service-Catalog` (#5).
+
+The **Proposal Generator** — a prospect enters a few details about a job and gets a polished,
+ready-to-send proposal in seconds, powered by Claude.
 
 Built with Next.js (App Router, TypeScript) + the Anthropic SDK. Deploys on Vercel.
 
